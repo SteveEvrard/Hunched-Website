@@ -17,8 +17,8 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
             <span className="icon-bar"></span>{" "}
           </button>
-          <a className="navbar-brand page-scroll" href="#page-top">
-            Omicron Studio
+          <a href="#page-top">
+            <img style={{ width: '140px' }} src="img/hunched-logo-white.png" className="img-responsive" alt="" />
           </a>{" "}
         </div>
 
@@ -39,14 +39,14 @@ export const Navigation = (props) => {
             </li>
             <li>
               <a href="#services" className="page-scroll">
-                Services
+                Features
               </a>
             </li>
-            <li>
+            {/* <li>
               <a href="#portfolio" className="page-scroll">
                 Portfolio
               </a>
-            </li>
+            </li> */}
             {/* <li>
               <a href="#testimonials" className="page-scroll">
                 Testimonials

@@ -5,10 +5,10 @@ export const Services = (props) => {
     <div id="services" className="text-center">
       <div className="container">
         <div className="section-title">
-          <h2>Our Services</h2>
-          <p>
+          <h2>Features</h2>
+          {/* <p>
             Delivering versatile technology solutions that empower businesses across all industries to innovate and excel.
-          </p>
+          </p> */}
         </div>
         <div className="row">
           {props.data

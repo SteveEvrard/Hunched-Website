@@ -90,7 +90,7 @@ hr {
 }
 
 #menu.navbar-default {
-  background-color: #fff;
+  background-color: #002A5F;
   border-color: rgba(231, 231, 231, 0);
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
 }
@@ -106,7 +106,7 @@ hr {
 #menu.navbar-default .navbar-nav>li>a {
   font-family: "Lato", sans-serif;
   text-transform: uppercase;
-  color: #555;
+  color: #fff;
   font-size: 15px;
   font-weight: 400;
   padding: 8px 2px;
@@ -121,7 +121,7 @@ hr {
   bottom: -1px;
   width: 0;
   height: 2px;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+  background: linear-gradient(to right, #002A5F 0%, #5ca9fb 100%);
   content: "";
   transition: width 0.2s;
 }
@@ -145,7 +145,7 @@ hr {
   bottom: -1px !important;
   width: 100% !important;
   height: 2px !important;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%) !important;
+  background: linear-gradient(to right, #002A5F 0%, #5ca9fb 100%) !important;
   content: "" !important;
   transition: width 0.2s !important;
 }
@@ -178,7 +178,7 @@ hr {
 .section-title h2::after {
   position: absolute;
   content: "";
-  background: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
+  background: linear-gradient(to right, #5ca9fb 0%, #002A5F 100%);
   height: 4px;
   width: 60px;
   bottom: 0;
@@ -195,7 +195,7 @@ hr {
   text-transform: uppercase;
   color: #fff;
   background-color: #5ca9fb;
-  background-image: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
+  background-image: linear-gradient(to right, #5ca9fb 0%, #002A5F 100%);
   padding: 14px 34px;
   letter-spacing: 1px;
   margin: 0;
@@ -213,7 +213,7 @@ hr {
 .btn-custom.active {
   color: #fff;
   background-image: none;
-  background-color: #6372ff;
+  background-color: #002A5F;
 }
 
 .btn:active,
@@ -240,7 +240,7 @@ a:focus,
   display: table;
   width: 100%;
   padding: 0;
-  background: url(../img/background-1.jpg) center center no-repeat;
+  background: url(../img/background-2.jpg) center center no-repeat;
   background-color: #e5e5e5;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -296,7 +296,7 @@ header .intro-text {
   height: 100px;
   padding: 30px 0;
   border-radius: 50%;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+  background: linear-gradient(to right, #002A5F 0%, #5ca9fb 100%);
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
 }
 
@@ -319,7 +319,7 @@ header .intro-text {
 #about h2::after {
   position: absolute;
   content: "";
-  background: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
+  background: linear-gradient(to right, #5ca9fb 0%, #002A5F 100%);
   height: 4px;
   width: 60px;
   bottom: 0;
@@ -358,7 +358,7 @@ header .intro-text {
 /* Services Section */
 #services {
   padding: 100px 0;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+  background: linear-gradient(to right, #002A5F 0%, #5ca9fb 100%);
   color: #fff;
 }
 
@@ -386,7 +386,7 @@ header .intro-text {
   width: 120px;
   height: 120px;
   padding: 40px 0;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+  background: linear-gradient(to right, #002A5F 0%, #5ca9fb 100%);
   border-radius: 50%;
   color: #fff;
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
@@ -534,7 +534,7 @@ header .intro-text {
 /* Contact Section */
 #contact {
   padding: 100px 0 60px;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+  background: linear-gradient(to right, #002A5F 0%, #5ca9fb 100%);
   color: rgba(255, 255, 255, 0.75);
 }
 

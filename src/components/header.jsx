@@ -8,10 +8,9 @@ export const Header = (props) => {
           <div className="container">
             <div className="row">
               <div className="col-md-8 col-md-offset-2 intro-text">
-                <h1>
-                  {props.data ? props.data.title : "Loading"}
-                  <span></span>
-                </h1>
+                <div style={{display: 'flex', justifyContent: 'center'}}>
+                  <img src="img/hunched-logo-white.png" className="img-responsive" alt="" />
+                </div>
                 <p>{props.data ? props.data.paragraph : "Loading"}</p>
                 <a
                   href="#about"

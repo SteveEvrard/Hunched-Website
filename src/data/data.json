@@ -1,15 +1,21 @@
 {
   "Header": {
-    "title": "Omicron Studio",
-    "paragraph": ""
+    "title": "Hunched",
+    "paragraph": "The Posture Guardian for Your Digital Wellbeing"
   },
   "About": {
-    "paragraph": "At Omicron Studio, we bring technology to life. Our passion is solving complex problems with bespoke web and mobile applications that push the boundaries of innovation. From posture-detecting sensors to real-time haulage tracking systems and patient-clinical trial matching services, we specialize in turning challenging client requirements into seamless, functional realities. Founded by a team of dedicated tech enthusiasts, we believe in creating solutions that not only meet but exceed our clients' visions.",
+    "paragraph": "At Hunched, we’re on a mission to safeguard your digital wellbeing. As your dedicated posture guardian, our app integrates seamlessly with your smartphone lifestyle, offering real-time posture coaching. We celebrate the incremental victories towards a healthier spine, providing intuitive reports, streak tracking for consistency, and exercises for those times you need a little extra care. Journey with us towards improved health as we turn every glance at your phone into a step towards better posture. Hunched is more than an app; it's a companion in your pursuit of a pain-free, upright life in our digital world.",
     "Why": [
-      "Client-Centered Innovation",
-      "Cutting-Edge Solutions",
-      "Proven Expertise",
-      "Transparent Collaboration"
+      "Customizable Posture Coaching",
+      "Intuitive Real-Time Monitoring",
+      "Health-Oriented Habit Tracking",
+      "Insightful Analytics and Feedback"
+    ],
+    "Why2": [
+      "Strengthening Exercises",
+      "Posture Improvement Milestones",
+      "Sleek, User-Friendly Interface",
+      "Commitment to Digital Wellbeing"
     ]
   },
   "Gallery": [
@@ -31,34 +37,34 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-mobile-screen-button",
-      "name": "Custom Mobile Applications",
-      "text": "Bespoke Mobile Experiences: Develop personalized applications for a variety of needs and sectors, focusing on user-centric design, seamless functionality, and integration with the latest mobile technologies."
+      "icon": "fa fa-mobile-alt",
+      "name": "Real-Time Posture Monitoring",
+      "text": "Intelligent Posture Tracking: Seamlessly integrated with your smartphone, our app provides continuous monitoring, offering gentle nudges to improve your posture moment-by-moment."
     },
     {
       "icon": "fa fa-users",
-      "name": "Operational Management Systems",
-      "text": "Efficient Workflow Automation: Create systems that optimize operations across industries, providing solutions for real-time monitoring, process automation, and resource management to enhance productivity."
+      "name": "Habit Formation Tools",
+      "text": "Consistency & Streaks: Cultivate healthy posture habits with our streak tracking feature, encouraging consistency and rewarding you for maintaining good posture throughout your day."
     },
     {
       "icon": "fa fa-computer",
-      "name": "Web Application Development",
-      "text": "Interactive Web Solutions: Craft web applications that connect users with essential services, facilitate community engagement, and streamline user interactions with intuitive interfaces and robust backend support."
+      "name": "Posture Insights Dashboard",
+      "text": "Actionable Posture Analytics: Dive into personalized reports detailing your posture habits, providing insights and recommendations for targeted improvements and sustained health."
     },
     {
       "icon": "fa fa-chart-pie",
-      "name": "Data Analysis and Reporting",
-      "text": "Advanced Data Insight Tools: Equip businesses with powerful data analysis and visualization tools, enabling them to make data-driven decisions and gain strategic insights across functions."
+      "name": "Exercise Recommendations",
+      "text": "Physiotherapy: Receive exercises designed to strengthen your posture muscles and alleviate tension, just like having a physiotherapist in your pocket."
     },
     {
       "icon": "fa fa-satellite-dish",
-      "name": "Internet of Things (IoT) Integration",
-      "text": "Smart Integration Solutions: Implement IoT technologies to develop interconnected environments for smart automation, energy management, and enhanced data collection in various sectors."
+      "name": "Posture Journey Mapping",
+      "text": "Motivational Progress Tracking: Our history feature visualizes your posture improvement journey, inspiring continued commitment to spinal health with reflective and celebratory tracking."
     },
     {
       "icon": "fa fa-store",
-      "name": "E-commerce and Online Marketplaces",
-      "text": "Customized Digital Marketplaces: Build comprehensive e-commerce platforms that cater to diverse business models, focusing on user experience, secure transactions, and scalable architecture for business growth."
+      "name": "User-Centric Design",
+      "text": "Intuitive App Interface: Experience a user-friendly interface that makes managing your spinal health as simple as checking a message, all while enjoying a seamlessly integrated digital wellness tool."
     }
   ],
   "Testimonials": [
@@ -118,7 +124,7 @@
   "Contact": {
     "address": "1010 SW 2nd Ave Unit PH06, Miami, FL 33130 ",
     "phone": "+1 (412) 480-5238",
-    "email": "steve@omicron.studio",
+    "email": "steve@hunchedapp.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
